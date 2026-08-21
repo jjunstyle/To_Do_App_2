@@ -1,5 +1,7 @@
 # To-Do App
 
+[클로드 코드를 활용한 바이브 코딩 완벽 입문] 첫 번째 프로젝트
+
 React + TypeScript + Vite + Tailwind CSS로 만든 할 일 관리 앱입니다.
 
 ## 기능
